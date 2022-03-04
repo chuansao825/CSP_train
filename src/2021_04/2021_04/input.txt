@@ -1,0 +1,6 @@
+4 5 10 0 dhcp
+4
+1 a * DIS 0 0
+2 a dhcp REQ 1 0
+3 a * DIS 1 3
+4 b * DIS 1 0

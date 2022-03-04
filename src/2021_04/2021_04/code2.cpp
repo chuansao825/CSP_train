@@ -65,13 +65,3 @@ int main(void) {
 		}
 	cout << result << endl;
 }
-
-
-
-
-
-
-
-
-
-
